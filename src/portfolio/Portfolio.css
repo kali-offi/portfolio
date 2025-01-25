@@ -1,0 +1,33 @@
+.logo2{
+    height: 30px;
+}
+.app{
+    background-color:rgb(43,43,43);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    /* position: relative; */
+}
+.used-apps{
+    /* position: absolute; */
+    /* bottom: -5px; */
+    /* right: 20px; */
+    /* left: 20px; */
+}
+.app:hover{
+    background-color:rgb(227,31,113) ;
+    transition: 0.2s ease-in-out;    
+    
+}
+.readmore{
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+.readmore:hover{
+    color: black;
+}
+.contact{
+    border-radius: 20px;
+    color: white;
+}

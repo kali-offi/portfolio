@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+:root{
+    --body_background:white;
+    --body_color:black;
+    --link_color:rgb(35,172,93);
+    --primary:blue;
+    --body_color5:white;
+}
+[data-theme='dark']{
+    --body_background:rgb(33,33,33);
+    --body_color:white;
+    --body_color5:rgb(35,172,93);
+    --body-color2: rgb(43,43,43);
+    --body_color1:white;
+    --link_color:rgb(35,172,93);
+    --body-header:rgba(33, 33, 33, 0.314);
+}
+p{
+    color: var(--body_color);
+    font-family: "Red Hat Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;;
+}
+h4{
+    color: var(--body_color1);
+}

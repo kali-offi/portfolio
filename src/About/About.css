@@ -1,0 +1,26 @@
+
+.logo{
+    height: 64px;
+    filter: drop-shadow(5px 5px 8px gray);
+}
+.dp{
+    filter: grayscale(100%);
+    transition: 0.5s ease-in-out;    
+}
+.dp:hover{
+    filter: grayscale(0);
+}
+.opac{
+    /* opacity: 1; */
+}
+.name{
+    font-size: 50px;
+}
+.skill{
+    color: rgb(35,172,93);
+}
+.front-end{
+    color: rgb(35,172,93);
+    font-weight: 700;
+    font-size: 22px;
+}
