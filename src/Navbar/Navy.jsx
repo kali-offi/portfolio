@@ -11,7 +11,7 @@ const Navy = () => {
       <section className='navy'>
         <Navbar expand="lg" >
           <Container className='d-lg-flex justify-content-lg-evenly '>
-            <h3 href="#home" className='first m-0'><span >K</span>AVITHA</h3>
+            <h3 href="#home " className='first m-0'><span >K</span>ALEESWARAN</h3>
             <div className='d-flex justify-content-center align-items-center m-lg-auto'>
               <Toogle />
               <Navbar.Toggle aria-controls="basic-navbar-nav" className='toggler1' />

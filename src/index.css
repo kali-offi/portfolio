@@ -2,15 +2,15 @@
 
 
 :root{
-    --body_background:white;
-    --body_color:black;
+    --body_background:rgb(33,33,33);
+    --body_color:white;
     --link_color:rgb(35,172,93);
     --primary:blue;
     --body_color5:white;
 }
 [data-theme='dark']{
-    --body_background:rgb(33,33,33);
-    --body_color:white;
+    --body_background:white;
+    --body_color:black;
     --body_color5:rgb(35,172,93);
     --body-color2: rgb(43,43,43);
     --body_color1:white;
